@@ -21,7 +21,7 @@ devtools::install_github("hassan-abdallah/TransitiveMaximalCorrelation")
 Here is an example using the 15x15 bivariate correlation matrix from Figure 1 of the above paper. The connectivity terrain representation of that bivariate correlation matrix, also found in Figure 1, is:
 
 <p align="center">
-<img src="/Users/es2483/Documents/projects/attractor_basins/tmc_package/git/TransitiveMaximalCorrelation/figures/connectivity_terrain.png" width="200" height="200" />
+<img src="./figures/connectivity_terrain.png" width="200" height="200" />
 
 
 ```r
