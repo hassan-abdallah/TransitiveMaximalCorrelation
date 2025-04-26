@@ -83,4 +83,4 @@ result <- tmc(cor_mat)
 [1]  3 10 11 12 13 14 15
 ```
 
-Each integer $i$ in the output of "attractors" and "attractor\_basins" corresponds to the region $r_i$ in the connectivity terrrain. The output shows that there are two attractor basins, with attractor pairs $r_4$,$r_5$ and $r_{10}$,$r_{11}$. This agrees with what is visually apparent in the figure. 
+Each integer $i$ in the output of "attractors" and "attractor\_basins" corresponds to the region $r_i$ in the connectivity terrrain. The output shows that there are two attractor basins, with attractor pairs $r_4$, $r_5$ and $r_{10}$, $r_{11}$. This agrees with what is visually apparent in the figure. 
